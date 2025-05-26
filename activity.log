@@ -121,3 +121,5 @@
 2025-05-04 09:54:00 | WARN | repo=pv243-a4m36jee-2016-infinispan-seminar-autumn | action=commit
 2025-03-10 09:38:00 | DEBUG | repo=pv243-a4m36jee-2016-infinispan-seminar-autumn | action=commit
 2025-02-16 13:11:00 | WARN | repo=pv243-a4m36jee-2016-infinispan-seminar-autumn | action=commit
+2025-03-26 21:02:00 | WARN | repo=pv243-a4m36jee-2016-infinispan-seminar-autumn | action=edit | files=2
+2025-05-26 16:47:00 | DEBUG | repo=pv243-a4m36jee-2016-infinispan-seminar-autumn | action=commit
